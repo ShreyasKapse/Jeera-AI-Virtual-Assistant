@@ -1,0 +1,59 @@
+Features of Pocket Assistant
+
+1) Create a file
+
+2) Performs maths calculations
+
+3) Web automation opens website 
+
+4) Shows wekipedia results and read it
+
+5) Can talk and answer like a friend
+
+6) message service
+
+7) Opens any folder file and application
+
+8) Search on youtube, google and show the results
+
+9) Tell the time in format of 24 hours
+
+10) Can send the email to anyone with valid email
+
+11) Shutdown, sleep or restart your device over a voice command
+
+12) Tells the joke
+
+13) Can play the song on youtube or from the file directory
+
+14) Tells the todays top 10 news
+
+15) Shows the location on google maps you want
+
+16) Can cange the wallpaper
+
+17) Empty recycle bin
+
+18) Can write a note for you and Show it and also read it
+
+19) Tells the weather of your city
+
+20) Can send the message on a number
+
+21) time table
+
+22) Dectionary  
+
+************************************************************************                                                       |
+                                                                       |
+23) Reminder                                                           |
+                                                                       |
+24) Translator                                                         |
+                                                                       |
+25) Audio book reader                                                  |
+                                                                       |
+26) Send message on whatsapp                                           |
+                                                                       |
+27) Covid-19 tracker                                                   |
+                                                                       |
+************************************************************************
