@@ -1,0 +1,15 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+gTTS==2.2.4
+playsound==1.2.2
+datetime==4.3
+wikipedia==1.4.0
+requests==2.26.0
+pyjokes==0.6.0
+wolframalpha==5.0.0
+opencv-python==4.5.5.64
+numpy==1.21.5
+Pillow==9.0.1
+pyaudio==0.2.11
+twilio==7.7.0
+winshell==0.6
